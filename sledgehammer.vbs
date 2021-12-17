@@ -1,0 +1,1 @@
+x=msgbox("Please destroy your Windows PC with a sledgehammer to continue.", 4+64, "Please destroy your PC")
